@@ -1,0 +1,574 @@
+{
+  "updated": "2023-02-10T20:34:44.478Z",
+  "news": [
+    {
+      "id": 0,
+      "title": "Sem energia elétrica há 90 anos, comunidade isolada da BA ganha primeira rede de eletricidade 100% sustentável do Brasil",
+      "link": "https://news.google.com./articles/CBMitwFodHRwczovL2cxLmdsb2JvLmNvbS9iYS9iYWhpYS9ub3RpY2lhLzIwMjMvMDIvMDYvc2VtLWVuZXJnaWEtZWxldHJpY2EtaGEtOTAtYW5vcy1jb211bmlkYWRlLWlzb2xhZGEtZGEtYmFoaWEtZ2FuaGEtcHJpbWVpcmEtcmVkZS1kZS1lbGV0cmljaWRhZGUtMTAwcGVyY2VudC1zdXN0ZW50YXZlbC1kby1icmFzaWwuZ2h0bWzSAcIBaHR0cHM6Ly9nMS5nbG9iby5jb20vZ29vZ2xlL2FtcC9iYS9iYWhpYS9ub3RpY2lhLzIwMjMvMDIvMDYvc2VtLWVuZXJnaWEtZWxldHJpY2EtaGEtOTAtYW5vcy1jb211bmlkYWRlLWlzb2xhZGEtZGEtYmFoaWEtZ2FuaGEtcHJpbWVpcmEtcmVkZS1kZS1lbGV0cmljaWRhZGUtMTAwcGVyY2VudC1zdXN0ZW50YXZlbC1kby1icmFzaWwuZ2h0bWw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/cypw2QOIL2oD0b3hi6tWkHgSxCXqJELIijcD74KYdzI8HGaiEEtRvBCiNxcApVYOuzaGNH9Zk7G746QdHXJraWakkIWIR2UxyYlKtHKfIPjrL0_WgMFveWv2PqUpbj9RI6B7jhTowlf9lDKDE57EyxDnDL1E8j9sSYCx1JLe83Thwq2C7NEQI7tVWwqp07K-8untMb2gSYw3lN75rVFLCU_xRPuMK-0n-Mi93r5pz_j_gJcI54a1izWWmH5M8K4_JI1Y3VwyxbXTV6Kna8bIBpQyZjvhA7V-ivNf6BWLU9_wDBQlr6HyAuulARh8POOlugmhSxiC7hwp=s0-w200-h112-dcFVKEDr0D",
+      "publisher": "Globo.com",
+      "date": "2023-02-06T21:32:04Z"
+    },
+    {
+      "id": 1,
+      "title": "Lamborghini ‘esquece’ eletricidade no V12 dos novos Invencible e Autentica",
+      "link": "https://news.google.com./articles/CBMic2h0dHBzOi8vcXVhdHJvcm9kYXMuYWJyaWwuY29tLmJyL25vdGljaWFzL2xhbWJvcmdoaW5pLWVzcXVlY2UtZWxldHJpY2lkYWRlLW5vLXYxMi1kb3Mtbm92b3MtaW52ZW5jaWJsZS1lLWF1dGVudGljYS_SAXdodHRwczovL3F1YXRyb3JvZGFzLmFicmlsLmNvbS5ici9ub3RpY2lhcy9sYW1ib3JnaGluaS1lc3F1ZWNlLWVsZXRyaWNpZGFkZS1uby12MTItZG9zLW5vdm9zLWludmVuY2libGUtZS1hdXRlbnRpY2EvYW1wLw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/BaglI0UYT9oXBocE3gs4CvpVcWxNX545_vmqohduRTLbPZJfSZWS_POuG9dEXxJyZhgQRZp5XleMGPSFiHqmTUTSBPgG9TVPkOx5vFaCml1ahXueCDpzBbCQ9kYxv1DZf8vGKahlvmR3kIReg56HCSsz_TP97imsG9CkJ8c9qAtxW0CUVsykYQ3vZMhwU7mprrt7zqt0DVFW=s0-w200-h112-dcBZKMh7UG",
+      "publisher": "Quatro Rodas",
+      "date": "2023-02-06T19:30:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Eletricidade paraguaia de portas abertas para investimentos em todo o mundo",
+      "link": "https://news.google.com./articles/CBMib2h0dHBzOi8vd3d3LmJuYW1lcmljYXMuY29tL3B0L25vdGljaWFzL2VsZXRyaWNpZGFkZS1wYXJhZ3VhaWEtYWJyZS1hcy1wb3J0YXMtcGFyYS1pbnZlc3RpbWVudG9zLWVtLXRvZG8tby1tdW5kb9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "publisher": "BNamericas",
+      "date": "2023-02-10T16:21:52Z"
+    },
+    {
+      "id": 3,
+      "title": "Demanda mundial de eletricidade deverá crescer 3% nos próximos três anos, mostra AIE",
+      "link": "https://news.google.com./articles/CBMihAFodHRwczovL3d3dy5jYW5hbGVuZXJnaWEuY29tLmJyL25vdGljaWFzLzUzMjM3ODI4L2RlbWFuZGEtbXVuZGlhbC1kZS1lbGV0cmljaWRhZGUtZGV2ZXJhLWNyZXNjZXItMy1ub3MtcHJveGltb3MtdHJlcy1hbm9zLW1vc3RyYS1haWXSAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/uaTrlg_pjPjStrGnV1ARreq_FNouBByoSFTAdnJl6ZU_damol6qa8N05MMlpHkyuoVL-vQrAoAdAAvOnPRfxYzlMN0zyatt0pgCph46Tx3N17SXOdqaARtWQGULTiEeCapw1R8kO7s55UVaoxKEd=s0-w200-h112-dcTZGEtzQF",
+      "publisher": "CanalEnergia",
+      "date": "2023-02-08T21:26:35Z"
+    },
+    {
+      "id": 4,
+      "title": "Fiações baixas e expostas de eletricidade preocupam moradores do bairro do Telégrafo",
+      "link": "https://news.google.com./articles/CBMiggFodHRwczovL3d3dy5vbGliZXJhbC5jb20vZXUtcmVwb3J0ZXIvZmlhY29lcy1iYWl4YXMtZS1leHBvc3Rhcy1kZS1lbGV0cmljaWRhZGUtcHJlb2N1cGFtLW1vcmFkb3Jlcy1kby1iYWlycm8tZG8tdGVsZWdyYWZvLTEuNjQxMjQ00gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/Ox5FTmpql4cO6uiBnAT0VQA-e_BGEB_4c06L9LsN4rfPirzeALyIYmNOwgIfFEVydRCTFf8PUfzAZD1Y5YFa9KWGz04eGiUaFK9Zpjtp11zRHn9zTWQEgGpkFwh1njGQJy-apX9GY3TOYwCPwYWv_dCfYaOk7pxsDOU6PAHzLot7YYkJUHS2u5KS4ogLUqQQfdk=s0-w200-h112-p-df",
+      "publisher": "OLiberal.com",
+      "date": "2023-02-03T18:15:47Z"
+    },
+    {
+      "id": 5,
+      "title": "Novas inundações na Califórnia deixam milhares sem eletricidade",
+      "link": "https://news.google.com./articles/CBMiWGh0dHBzOi8vZXhhbWUuY29tL211bmRvL25vdmFzLWludW5kYWNvZXMtbmEtY2FsaWZvcm5pYS1kZWl4YW0tbWlsaGFyZXMtc2VtLWVsZXRyaWNpZGFkZS_SAVxodHRwczovL2V4YW1lLmNvbS9tdW5kby9ub3Zhcy1pbnVuZGFjb2VzLW5hLWNhbGlmb3JuaWEtZGVpeGFtLW1pbGhhcmVzLXNlbS1lbGV0cmljaWRhZGUvYW1wLw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/Fq64yPiugtSltYyIJeaicb8XkNo_n7BZm_u73A9aSc7XbAWLYKvce-O_18qZBn_N0cB9Nd27ensJp05uMcR4tFlOZSq5aTqVrCr3qRvI542Ws2H7579emVc_yenqb67HwCrSMyWc5Fbb7rZynm7cUZdpZIo-dXv4frmzVe00GjIUoD5h-K-jcYYOlwJ1voyV885LPQYZT3jYfzKufmAn8fFLUi_z7tYsf84vzpdpJxOiViEisRrW=s0-w200-h112-dcEVCETcUD",
+      "publisher": "Exame Notícias",
+      "date": "2023-01-14T08:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Energisa orienta como evitar acidentes com eletricidade durante reformas em imóveis",
+      "link": "https://news.google.com./articles/CBMihgFodHRwczovL3d3dy50dWRvcm9uZG9uaWEuY29tL25vdGljaWFzL2VuZXJnaXNhLW9yaWVudGEtY29tby1ldml0YXItYWNpZGVudGVzLWNvbS1lbGV0cmljaWRhZGUtZHVyYW50ZS1yZWZvcm1hcy1lbS1pbW92ZWlzLDEwMDM2NC5zaHRtbNIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/2qzLumzcrgjK_jqWGGphLzJq7j32RrASwD9Gj9CDC1xgBpeFyEe_BikZbX8J7qPwtdSJ9nA1vTvAo82NWGnILxaLVpDR1bEFS5OMxWTvdXTCyrmQ6rS0qg=s0-w200-h112-dcFQSATY0L",
+      "publisher": "Tudo Rondônia",
+      "date": "2023-02-01T14:52:00Z"
+    },
+    {
+      "id": 7,
+      "title": "População de El Salvador pagará menos pela eletricidade",
+      "link": "https://news.google.com./articles/CBMiY2h0dHBzOi8vd3d3LnByZW5zYWxhdGluYS5jb20uYnIvMjAyMy8wMS8xNi9wb3B1bGFjYW8tZGUtZWwtc2FsdmFkb3ItcGFnYXJhLW1lbm9zLXBlbGEtZWxldHJpY2lkYWRlL9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/acBtAQwt3yCY0XpoJjQFy6SDIZV3naTBb4znfVt7jYhB34DfAcwfbIgbRW8N6Yw5ZlqrbKSphqeZswve-pUsHeysSvG-q4eO89zcxWkh7RR22EQAIEk2zjmyewyj98T3kLOatLXUIf2ri6hED_UNaXDX=s0-w200-h112-dcgSMA",
+      "publisher": "Prensa Latina",
+      "date": "2023-01-16T08:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Jacareí recebe oficinas gratuitas de atividades circenses e eletricidade",
+      "link": "https://news.google.com./articles/CBMicGh0dHBzOi8vd3d3Lm1lb24uY29tLmJyL25vdGljaWFzL3JtdmFsZS9qYWNhcmVpLXJlY2ViZS1vZmljaW5hcy1ncmF0dWl0YXMtZGUtYXRpdmlkYWRlcy1jaXJjZW5zZXMtZS1lbGV0cmljaWRhZGXSAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/DGu38Sq2zzMgzNf916sxUpxNhONCYeeGl8zYmfpmvVq0E6tHeBL3AEf7G_qcts5hlDUrpMBUuGeiJhZvDiWK2FTuiAD2BUoFJm0jRiCysNz9KU8yPMsueP7a3OEnGxt8pOSIoA=s0-w200-h112-dcAZCK4jgF",
+      "publisher": "Meon",
+      "date": "2023-01-09T08:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Nissan Leaf fornece eletricidade para iluminação de Natal",
+      "link": "https://news.google.com./articles/CBMiQGh0dHBzOi8vd3d3LnZydW0uY29tLmJyL2FjZWxlcmFkYXMvbmlzc2FuLWxlYWYtaWx1bWluYWNhby1uYXRhbC_SAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/FkqKsGyvxomvNYEmwagW6m5YntYlvC8oyDT-VtqJQGGkRzmn0oz1RVXLKMOEMDfnEJV7M_uHuaa-m7GL4gpQKcz4NrcqUjcN7jaWBZOobd4gE-Mg5PcPl_5LazjQHNuUHKZknp59IR7giv1nPXbBn5aqmKta9hSPjtnsvnVR0wTc42LRcOc1pjxQB8lb9vyVycS-c7yCXiFIUA-gmSimrAQ=s0-w200-h112-dcAaCI6cgE",
+      "publisher": "Vrum",
+      "date": "2022-12-23T08:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "FGV: gasolina, eletricidade e alimentos pressionam inflação",
+      "link": "https://news.google.com./articles/CBMicWh0dHBzOi8vZXNicmFzaWwuY29tLmJyL2dhc29saW5hLWVsZXRyaWNpZGFkZS1lLWFsaW1lbnRvcy1wcmVzc2lvbmFtLWluZmxhY2FvLW1lZGlkYS1wZWxvLWluZGljZS1nZXJhbC1kZS1wcmVjb3Mv0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/uYhG1PZDs0fgMxMlQfS3G1f3k0JJgHxstGW6nnG6zHYMo1f69sZSkQCZG24eroQHIEtBLYYuY5LqVSM9sQSOjl8am806_ifN_YJFS_1a9lHQzFXrYSXnv0cJ=s0-w200-h112-dcDVGOaCII",
+      "publisher": "Revista ES Brasil",
+      "date": "2022-12-07T08:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "Porto de Odessa sem electricidade devido a falha do transformador",
+      "link": "https://news.google.com./articles/CBMidmh0dHBzOi8vd3d3Lm1zbi5jb20vcHQtYnIvbm90aWNpYXMvbXVuZG8vcG9ydG8tZGUtb2Rlc3NhLXNlbS1lbGVjdHJpY2lkYWRlLWRldmlkby1hLWZhbGhhLWRvLXRyYW5zZm9ybWFkb3IvYXItQUExNzZiN1nSAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/Brn29SYu0dFvGLFu6oeM-WhpQcj1zVEziTFwkLR2TJdISNzltcOVnmlzEOsjGyNTPKz5cyXFXJs0gOrT_Z_okRzCYVzAw-LjsZqcBQ1DfKCglEabON-A9taCD0cyZxBR2TgYAf4LfyuVSLoQtHn3FZcxEXwsaxDHVL_2eEuu=s0-w200-h112-dcGSWWzLEH",
+      "publisher": "MSN",
+      "date": "2023-02-04T13:09:49Z"
+    },
+    {
+      "id": 12,
+      "title": "Eletricidade: conceito, função, fórmula e mais!",
+      "link": "https://news.google.com./articles/CBMiN2h0dHBzOi8vd3d3LnByYXZhbGVyLmNvbS5ici9lbGV0cmljaWRhZGUtZ3VpYS1jb21wbGV0by_SAUBodHRwczovL3d3dy5wcmF2YWxlci5jb20uYnIvZWxldHJpY2lkYWRlLWd1aWEtY29tcGxldG8vP2FtcD10cnVl?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/PbNqVJrz1J2CBUXAx5i1G0HmKr2i5U8d_pp9IhdwGfyiz4S1cFGf1SGBXm1F85tBBH4Rq11jjaswSlscRtLKtygrGrgOsCDkjm5_9AemgIM1igbczv68CS73rbJ4AhLaCStTCGNJIGwGYEM_=s0-w200-h112-dcAQCAgYLsoViIhyU",
+      "publisher": "Notícias PRAVALER",
+      "date": "2022-12-19T08:00:00Z"
+    },
+    {
+      "id": 13,
+      "title": "Valadares tem interrupção nos fornecimentos de água e eletricidade na sexta",
+      "link": "https://news.google.com./articles/CBMiiQFodHRwczovL3RyaWJ1bmFkZW1pbmFzLmNvbS5ici9ub3RpY2lhcy9jaWRhZGUvMjQtMTEtMjAyMi92YWxhZGFyZXMtdGVtLWludGVycnVwY2FvLW5vcy1mb3JuZWNpbWVudG9zLWRlLWFndWEtZS1lbGV0cmljaWRhZGUtbmEtc2V4dGEuaHRtbNIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/wmkaZolAoKjmW1ApkryXbYdMwK6szY7IYYMFS7ATKd83w3wT80lGFHs9Zg-OgaCfFU-7cZLJy06W1k4YK8BKo94LItTFgJwIUWKnv15i6Bpvj-DxjISxpcUgPbn-kRpg8y8U2Rq9h2qqxqVvIQ=s0-w200-h112-dcETCMmJwJ",
+      "publisher": "Tribuna de Minas",
+      "date": "2022-11-24T08:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "Renault Group amplia cooperação estratégica à nova empresa de eletricidade e software do conglomerado",
+      "link": "https://news.google.com./articles/CBMikgFodHRwczovL3d3dy5kZWNpc2lvbnJlcG9ydC5jb20uYnIvaW5kdXN0cmlhL3JlbmF1bHQtZ3JvdXAtYW1wbGlhLWNvb3BlcmFjYW8tZXN0cmF0ZWdpY2EtYS1ub3ZhLWVtcHJlc2EtZGUtZWxldHJpY2lkYWRlLWUtc29mdHdhcmUtZG8tY29uZ2xvbWVyYWRvL9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "publisher": "Decision Report",
+      "date": "2022-11-21T08:00:00Z"
+    },
+    {
+      "id": 15,
+      "title": "Dez milhões de ucranianos estão sem eletricidade após onda de ataques russos",
+      "link": "https://news.google.com./articles/CBMieGh0dHBzOi8vd3d3LmNubmJyYXNpbC5jb20uYnIvaW50ZXJuYWNpb25hbC9kZXotbWlsaG9lcy1kZS11Y3Jhbmlhbm9zLWVzdGFvLXNlbS1lbGV0cmljaWRhZGUtYXBvcy1vbmRhLWRlLWF0YXF1ZXMtcnVzc29zL9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/ngVP-AeH_TcenDdcCb79gu9ZifvXN-xxKD8Tyt6gGSI9YDt68VfnUSIk_OFqGN3ubGfjdmw7JPE56IFTbf67AxUAMBIV1OFb4JsfqXPAyWYFX4rPkY9TE8Vqrjrjv055o19FhAVYNoZCss9d8nQ7qH-lYskdQEBSJMst2S-CcInCqTz6hIdfYezmhPChc8We7wIk8eZW-GTH=s0-w200-h112-dcAWGKEzEG",
+      "publisher": "CNN Brasil",
+      "date": "2022-11-18T08:00:00Z"
+    },
+    {
+      "id": 16,
+      "title": "Professor lança livro sobre eletricidade voltado ao Enem - 01/11/2022 - Notícia",
+      "link": "https://news.google.com./articles/CBMiaWh0dHA6Ly93d3cudHJpYnVuYWRvbm9ydGUuY29tLmJyL25vdGljaWEvcHJvZmVzc29yLWxhbmEtYS1saXZyby1zb2JyZS1lbGV0cmljaWRhZGUtdm9sdGFkby1hby1lbmVtLzU1MDU0NNIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/kj5JgasjIO_-ebxmqNdJOnKQ-Zz4iGxR0MC1dUkeBDhamjc70DiwgLb0dekRsZZxw2C5zbZFA818RHLQcAIf5C-KTbsQ6E6FogUMMCgZOmpX=s0-w200-h112-dcoSSKrRUF",
+      "publisher": "Tribuna do Norte",
+      "date": "2022-11-01T07:00:00Z"
+    },
+    {
+      "id": 17,
+      "title": "Projeto de fornecimento de eletricidade da Linha 17-Ouro pode ser destravado",
+      "link": "https://news.google.com./articles/CBMiamh0dHBzOi8vd3d3Lm1ldHJvY3B0bS5jb20uYnIvcHJvamV0by1kZS1mb3JuZWNpbWVudG8tZGUtZWxldHJpY2lkYWRlLWRhLWxpbmhhLTE3LW91cm8tcG9kZS1zZXItZGVzdHJhdmFkby_SAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/xe7F2Ax5Kh2z8GWIjpp3z6Dk60ajINIKAJU6JLBvG1_Z_h2ru5ls4IbnMQ0oEEQM_WxZl9utMzPs86y6U7TK6X6vAv1vzgYhBW8pyybHUOHIXUgeNAMob7-Q-Zcp9SLO-J33=s0-w200-h112-dcAWGKMjEI",
+      "publisher": "Metrô CPTM",
+      "date": "2022-10-28T07:00:00Z"
+    },
+    {
+      "id": 18,
+      "title": "Cientistas descobrem que enxames de insetos conseguem gerar eletricidade no ar",
+      "link": "https://news.google.com./articles/CBMiXWh0dHBzOi8vd3d3LnR1ZG9jZWx1bGFyLmNvbS90ZWNoL25vdGljaWFzL24xOTc1OTIvY2llbnRpc3Rhcy1hbmFsaXNhbS1lbnhhbWVzLWRlLWluc2V0b3MuaHRtbNIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/T2X_5_0I6WTr4nru8S_1IYkGj6u7l5ZBJ0nh0ujntTtNF-AgMjLll3TtBR9dCuoM4H2IMoTa9gFoCsSpGFoScMLjyGU7KQ=s0-w200-h112-dcAWCEhTBlJYkC",
+      "publisher": "TudoCelular.com",
+      "date": "2022-10-28T07:00:00Z"
+    },
+    {
+      "id": 19,
+      "title": "Transportes, educação, eletricidade: greve geral promete paralisar a França nesta terça",
+      "link": "https://news.google.com./articles/CBMie2h0dHBzOi8vd3d3LmNhcnRhY2FwaXRhbC5jb20uYnIvbXVuZG8vdHJhbnNwb3J0ZXMtZWR1Y2FjYW8tZWxldHJpY2lkYWRlLWdyZXZlLWdlcmFsLXByb21ldGUtcGFyYWxpc2FyLWEtZnJhbmNhLW5lc3RhLXRlcmNhL9IBf2h0dHBzOi8vd3d3LmNhcnRhY2FwaXRhbC5jb20uYnIvbXVuZG8vdHJhbnNwb3J0ZXMtZWR1Y2FjYW8tZWxldHJpY2lkYWRlLWdyZXZlLWdlcmFsLXByb21ldGUtcGFyYWxpc2FyLWEtZnJhbmNhLW5lc3RhLXRlcmNhL2FtcC8?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/RS00CQ00DruVN99ZmfQ11EVCceGkHx4i27pDegS64A9x3MD-lbV--zGYRnzQhkC_ddXtbWpeX3twRvVR-EoAM6BTJs6xpBfAVoKkxgOKJZz4cBs96weCucBBmrPIZwuRqW-5pJY=s0-w200-h112-dcAVCExa2iLCkqeGuqiCw",
+      "publisher": "CartaCapital",
+      "date": "2022-10-18T07:00:00Z"
+    },
+    {
+      "id": 20,
+      "title": "Cemig reforça cuidados com a eletricidade durante período chuvoso",
+      "link": "https://news.google.com./articles/CBMibGh0dHBzOi8vd3d3LmFnZW5jaWFtaW5hcy5tZy5nb3YuYnIvbm90aWNpYS9jZW1pZy1yZWZvcmNhLWN1aWRhZG9zLWNvbS1hLWVsZXRyaWNpZGFkZS1kdXJhbnRlLXBlcmlvZG8tY2h1dm9zb9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/VOqSYdGdmAKezlYyuS1suDoaVTU4hUkM0Vjee-3m0IV1a7FikSN3dscfjUdLVr2HImYQHPMjfX-lQX_MM0k3S8hZ_VrB1Qe1ooEraFeLUOpOaENC1B8bEUOeKxii1g8w5ewjQ-9pZGIpbrIb3wfv8RljpH2E8BVOYouH3h9qRORZLYxDifZh2Ue_wjE=s0-w200-h112-dcAXCASSpjufQA",
+      "publisher": "Agência Minas Gerais",
+      "date": "2022-10-05T07:00:00Z"
+    },
+    {
+      "id": 21,
+      "title": "Webinar | Sandboxes Tarifários - Oportunidades e Desafios de Aprimoramento de Tarifas de Eletricidade",
+      "link": "https://news.google.com./articles/CBMidmh0dHBzOi8vcG9ydGFsLmZndi5ici9ldmVudG9zL3dlYmluYXItc2FuZGJveGVzLXRhcmlmYXJpb3Mtb3BvcnR1bmlkYWRlcy1lLWRlc2FmaW9zLWFwcmltb3JhbWVudG8tdGFyaWZhcy1lbGV0cmljaWRhZGXSAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/2gxH05scpYSOnrKUkIPHbYKVWGnkjZNu5jtNdFxdVdL7wid4u-dAsUBJiqWbYW73OWoGiBd9f_yC4h0JMt-avuya1HysyjgkWoFPIIvmmVr84NWKGhgSN-7Ad_2h8ex6ndNygAovhnbcknNlscTm6UzEXR8ofGNZ8Rmjvgh82B_hs4dNh7jXxdzYGAM=s0-w200-h112-dcAQCORianc4B7qlw",
+      "publisher": "Portal FGV",
+      "date": "2022-10-04T07:00:00Z"
+    },
+    {
+      "id": 22,
+      "title": "Eletricidade tem retorno lento a Cuba após passagem do furacão Ian",
+      "link": "https://news.google.com./articles/CBMibmh0dHBzOi8vd3d3LmZvbGhhcGUuY29tLmJyL25vdGljaWFzL2VsZXRyaWNpZGFkZS10ZW0tcmV0b3Juby1sZW50by1hLWN1YmEtYXBvcy1wYXNzYWdlbS1kby1mdXJhY2FvLWlhbi8yNDE3NDAv0gFxaHR0cHM6Ly93d3cuZm9saGFwZS5jb20uYnIvbm90aWNpYS9hbXAvMjQxNzQwL2VsZXRyaWNpZGFkZS10ZW0tcmV0b3Juby1sZW50by1hLWN1YmEtYXBvcy1wYXNzYWdlbS1kby1mdXJhY2FvLWlhbi8?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/JN7vkZ0quVtjd-a4JzQHtbTpENQQ4mN16WvF6I37_MdtNio66UYFqRh8P_ebqNPxHyVPTChxh4lkEW0dFPPycWML5nBi_J4bbx2cUAYmKOJRtNFXzt7R3XPRAizcxM6n6kDvfA4kIw=s0-w200-h112-dcCXGQRr4G",
+      "publisher": "Folha de Pernambuco ",
+      "date": "2022-09-28T07:00:00Z"
+    },
+    {
+      "id": 23,
+      "title": "Alemanha prepara teto para preço de eletricidade, caso UE não adote medida",
+      "link": "https://news.google.com./articles/CBMicGh0dHBzOi8vd3d3LmluZm9tb25leS5jb20uYnIvZWNvbm9taWEvYWxlbWFuaGEtcHJlcGFyYS10ZXRvLXBhcmEtcHJlY28tZGUtZWxldHJpY2lkYWRlLWNhc28tdWUtbmFvLWFkb3RlLW1lZGlkYS_SAXRodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL2Vjb25vbWlhL2FsZW1hbmhhLXByZXBhcmEtdGV0by1wYXJhLXByZWNvLWRlLWVsZXRyaWNpZGFkZS1jYXNvLXVlLW5hby1hZG90ZS1tZWRpZGEvYW1wLw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/gesffiZGDr2oEYUCqQv88O2j5KfPj--H6620yJgfy0Ohj7d4NrRr1H_2pDmTkmr1jt3dwW9qFqnUchdcul2bc4bjUsr3BRdj-p9SljmaAxf1xZW1NxSksqWo4dg7ttFki8UZS-aUFLaKAdzM_sVjFm2eA-II6eE6gozQtDHf7pxhJ0dERYby-P8TKA=s0-w200-h112-dclZKK6jkG",
+      "publisher": "InfoMoney",
+      "date": "2022-09-26T07:00:00Z"
+    },
+    {
+      "id": 24,
+      "title": "Messe Frankfurt fecha acordo para seguir com eletricidade verde em seus pavilhões",
+      "link": "https://news.google.com./articles/CBMibWh0dHBzOi8vcG9ydGFscmFkYXIuY29tLmJyL21lc3NlLWZyYW5rZnVydC1mZWNoYS1hY29yZG8tcGFyYS1zZWd1aXItY29tLWVsZXRyaWNpZGFkZS12ZXJkZS1lbS1zZXVzLXBhdmlsaG9lcy_SAXFodHRwczovL3BvcnRhbHJhZGFyLmNvbS5ici9tZXNzZS1mcmFua2Z1cnQtZmVjaGEtYWNvcmRvLXBhcmEtc2VndWlyLWNvbS1lbGV0cmljaWRhZGUtdmVyZGUtZW0tc2V1cy1wYXZpbGhvZXMvP2FtcA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/osdMAShhHhV8W9SSq8wtycOP0VG8FhYQ2pkZVO6w4hRUGvrp98rVin2PRrFP-gS3hB5SAN7BXomGtv75flCObIqUhqMusDVjlvA2yuTCuW0apAJsx1MtNNHTpizRlCEhGC03Bdsr2OgZAb8CyeezILwnWJdhKGyV=s0-w200-h112-dcDVOWxqIJ",
+      "publisher": "Portal Radar",
+      "date": "2022-09-22T07:00:00Z"
+    },
+    {
+      "id": 25,
+      "title": "Voos curtos serão em breve movidos a eletricidade – Fast Company Brasil",
+      "link": "https://news.google.com./articles/CBMiWGh0dHBzOi8vZmFzdGNvbXBhbnlicmFzaWwuY29tL2ltcGFjdG8vdm9vcy1jdXJ0b3Mtc2VyYW8tZW0tYnJldmUtbW92aWRvcy1hLWVsZXRyaWNpZGFkZS_SAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/ESMq1zAA9IQX6thicFzx3BdNawYM9s_5r5IN_8fhQAKm3wIuTLrjuGUwhr6Vp4Ar5ngsJ-LrEjKBkmQoXCoJ-CAKqH-nNrlUc_VCn3Xxul4oxNcvMUB46GVbLHhJL7fKQ015bs2GYwo=s0-w200-h112-dckYGUC7UH",
+      "publisher": "Fast Company Brasil",
+      "date": "2022-09-23T07:00:00Z"
+    },
+    {
+      "id": 26,
+      "title": "Médico usa eletricidade de caminhonete para fazer vasectomia durante blackout",
+      "link": "https://news.google.com./articles/CBMidGh0dHBzOi8vY2FuYWx0ZWNoLmNvbS5ici9zYXVkZS9tZWRpY28tdXNhLWVsZXRyaWNpZGFkZS1kZS1jYW1pbmhvbmV0ZS1wYXJhLWZhemVyLXZhc2VjdG9taWEtZHVyYW50ZS1ibGFja291dC0yMjU0MjIv0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/oLv3woPh0wN7ZvNeGkhcWQlSXZDjLbxWK0e6bQAKAeSNSFfWIs_q1Q-qHLYLUU3h0hLmcSMyyc3-j-lCwVV0K0RGU57OK4weKBDNbnDin22nlSC8ps9nT7PyMcFRcVKmTn_EnGCZH5j-gA=s0-w200-h112-dclZKIaLLmRG8B",
+      "publisher": "Canaltech",
+      "date": "2022-09-15T07:00:00Z"
+    },
+    {
+      "id": 27,
+      "title": "Paulo Kogos explica como vai baratear eletricidade de São Paulo através da mineração de Bitcoin Por Criptonizando",
+      "link": "https://news.google.com./articles/CBMimQFodHRwczovL2JyLmludmVzdGluZy5jb20vbmV3cy9jcnlwdG9jdXJyZW5jeS1uZXdzL3BhdWxvLWtvZ29zLWV4cGxpY2EtY29tby12YWktYmFyYXRlYXItZWxldHJpY2lkYWRlLWRlLXNhby1wYXVsby1hdHJhdmVzLWRhLW1pbmVyYWNhby1kZS1iaXRjb2luLTEwMzU4ODnSAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "publisher": "Investing.com Brasil",
+      "date": "2022-09-13T07:00:00Z"
+    },
+    {
+      "id": 28,
+      "title": "Populações amazônicas são as que mais sofrem com a pobreza de eletricidade -",
+      "link": "https://news.google.com./articles/CBMiZWh0dHBzOi8vd3d3LmNvbWNpZW5jaWEuYnIvcG9wdWxhY29lcy1hbWF6b25pY2FzLXNhby1hcy1xdWUtbWFpcy1zb2ZyZW0tY29tLWEtcG9icmV6YS1kYS1lbGV0cmljaWRhZGUv0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/ZzDTUDWM61jLr4xlHQPP2_jEy_wga0yywag9InJB4cCE3OSvnrYZ8UZO8u6dDvRu7J64Eod524sVG_wpdVIZh9VmGZF7qj4MxSXKouohbbkeKnMVr3UOIAuDgQAjJe6d-vQ6qXJ_ilSz1w=s0-w200-h112-dcjUOMyKkG",
+      "publisher": "ComCiência",
+      "date": "2022-09-10T07:00:00Z"
+    },
+    {
+      "id": 29,
+      "title": "Comitê Energia propõe alterações em portaria que trata da contratação de eletricidade no mercado livre de energia",
+      "link": "https://news.google.com./articles/CBMilwFodHRwczovL3d3dy5mZWNvbWVyY2lvLmNvbS5ici9ub3RpY2lhL2NvbWl0ZS1lbmVyZ2lhLXByb3BvZS1hbHRlcmFjb2VzLWVtLXBvcnRhcmlhLXF1ZS10cmF0YS1kYS1jb250cmF0YWNhby1kZS1lbGV0cmljaWRhZGUtbm8tbWVyY2Fkby1saXZyZS1kZS1lbmVyZ2lh0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/M1DltdvSp2zBuwfRI6g6-y_2CEUwAXIg7v2JVZm5xfjl4ImeqbASkluP7yZmGrrWV0AikZCvFTUKjmVmn9VxQC5RrQWENdFex_DrgQ5ZjcpKsB7bHuKnY7xPI5g_zVVViwPrOf1fUc_RT9oNpArMwZduU2-cFQ2NU8xHm68kaUbJTGGbk0MIdJkGY9ie6Ev6HDit=s0-w200-h112-dcuTGKFp0I",
+      "publisher": "FecomercioSP",
+      "date": "2022-09-06T07:00:00Z"
+    },
+    {
+      "id": 30,
+      "title": "Tubos solar a vácuo produzem eletricidade e calor e são quatro vezes mais eficientes que painéis solares tradicionais",
+      "link": "https://news.google.com./articles/CBMipAFodHRwczovL2VuZ2VuaGFyaWFlLmNvbS5ici9lZGl0b3JpYWwvZW5lcmdpYS12ZXJkZS90dWJvcy1zb2xhci1hLXZhY3VvLXByb2R1emVtLWVsZXRyaWNpZGFkZS1lLWNhbG9yLWUtc2FvLXF1YXRyby12ZXplcy1tYWlzLWVmaWNpZW50ZXMtcGFpbmVpcy1zb2xhcmVzLXRyYWRpY2lvbmFpc9IBqgFodHRwczovL2VuZ2VuaGFyaWFlLmNvbS5ici9lZGl0b3JpYWwvZW5lcmdpYS12ZXJkZS90dWJvcy1zb2xhci1hLXZhY3VvLXByb2R1emVtLWVsZXRyaWNpZGFkZS1lLWNhbG9yLWUtc2FvLXF1YXRyby12ZXplcy1tYWlzLWVmaWNpZW50ZXMtcGFpbmVpcy1zb2xhcmVzLXRyYWRpY2lvbmFpcz9hbXA9MQ?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/sZJNIiqu7XEiQ1CLdSL_DkIW2j44IYMMnJD9mEVELWmmHlBXknaAHbVNNlKwvarINoJB0_aOB54vAv_zsOonyBw7hpoe9akSNK4fJLyMnWoo_b4Y0KwDStqNtKHu-8Ul-55Y4V7qfdKX_q4tvvpcl1s3NGl7=s0-w200-h112-dcAQCAQRSoHBAB",
+      "publisher": "Engenharia é",
+      "date": "2023-01-24T08:00:00Z"
+    },
+    {
+      "id": 31,
+      "title": "Produção obrigatória de energia a partir de gás natural pode gerar impacto de R$ 86,7 bilhões sobre o custo...",
+      "link": "https://news.google.com./articles/CBMinAFodHRwczovL2JyYXNpbDYxLmNvbS9uL3Byb2R1Y2FvLW9icmlnYXRvcmlhLWRlLWVuZXJnaWEtYS1wYXJ0aXItZGUtZ2FzLW5hdHVyYWwtcG9kZS1nZXJhci1pbXBhY3RvLWRlLXItODYtNy1iaWxob2VzLXNvYnJlLW8tY3VzdG8tZGEtZWxldHJpY2lkYWRlLXBpbmQyMjM0NTPSAaABaHR0cHM6Ly9icmFzaWw2MS5jb20vbi9wcm9kdWNhby1vYnJpZ2F0b3JpYS1kZS1lbmVyZ2lhLWEtcGFydGlyLWRlLWdhcy1uYXR1cmFsLXBvZGUtZ2VyYXItaW1wYWN0by1kZS1yLTg2LTctYmlsaG9lcy1zb2JyZS1vLWN1c3RvLWRhLWVsZXRyaWNpZGFkZS1waW5kMjIzNDUzLmFtcA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/Qrs3TWrHptRR7DktOkIGWphPoIwBGP1jW-vWM8YZQiz-VKsBnOBxbmnZepzVKtLzggjGzDiu8YqGh4LG9Qntl8idBSim7vNxedCqOMo0mAizThJpDVB4ZY_O0ZfMqbJWDNeKom9T6DQLqIsLRwDZ_hu8RTrYgS8BuH-5-AFfOKFZL7cHPzc8xqlIAJrhlxCgidto3Ua2jFK7DjABOc0MH0k1uE4=s0-w200-h112-dcAQCEp4wjycYC",
+      "publisher": "Brasil 61",
+      "date": "2022-08-12T07:00:00Z"
+    },
+    {
+      "id": 32,
+      "title": "Grupo estuda como converter etanol em eletricidade e hidrogênio",
+      "link": "https://news.google.com./articles/CBMiYGh0dHBzOi8vYWdlbmNpYS5mYXBlc3AuYnIvZ3J1cG8tZXN0dWRhLWNvbW8tY29udmVydGVyLWV0YW5vbC1lbS1lbGV0cmljaWRhZGUtZS1oaWRyb2dlbmlvLzM5MzEyL9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/5qZR04SNGW-T009nhQONhuwQk6MaOllZ_hHvT3y0gIIvMT4AhQaifWRnoDGUJn34gf4R90eH9y7kBc090qbeMNLMC1KrIa7NOtC20hEvq4elI424VvVRNbHhNw=s0-w200-h112-dcAUCOhiQmLXQB",
+      "publisher": "FAPESP",
+      "date": "2022-08-10T07:00:00Z"
+    },
+    {
+      "id": 33,
+      "title": "Itaipu define tarifa de eletricidade para 2022",
+      "link": "https://news.google.com./articles/CBMieGh0dHBzOi8vd3d3Lmdvdi5ici9wdC1ici9ub3RpY2lhcy9lbmVyZ2lhLW1pbmVyYWlzLWUtY29tYnVzdGl2ZWlzLzIwMjIvMDgvaXRhaXB1LWRlZmluZS10YXJpZmEtZGUtZWxldHJpY2lkYWRlLXBhcmEtMjAyMtIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/aQDNTctkUfLsrWorE2Ow278sswnAK-cJicsERfe32zPFKqWgmSLtF99UPyq07GIOx1pReffaEVGyDT0PWJepzf_SvzLFod2_T9VrOaXecqDhpBwrWQ1J9HkOpbGQNdRJlGv-k-k0BSGb5gZLvwofVUFf-cZqCs2Suz1lpZGVeK4jlnktRGAKeON2K4Sj6fTnMcZ_CcxURXOqiiyEPGiP=s0-w200-h112-dcAXAK",
+      "publisher": "GOV.BR",
+      "date": "2022-08-10T07:00:00Z"
+    },
+    {
+      "id": 34,
+      "title": "Possível apagão de Inverno: UE dividida pelo preço da electricidade",
+      "link": "https://news.google.com./articles/CBMiNGh0dHBzOi8vcG9ydC5wcmF2ZGEucnUvYnVzaW5lcy81NjA5My1hcGFnYW9faW52ZXJuby_SAThodHRwczovL3BvcnQucHJhdmRhLnJ1L2FtcC9idXNpbmVzLzU2MDkzLWFwYWdhb19pbnZlcm5vLw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/WnRTg3rwQX5HuqofNbx4BhCskIzOQo5BvgtDSWcyAf_nt2bADLXr6WWtTCWcLshOXb7Cht0sD44ygd-4-f8TbVr3oRgtRKCeCM3EwM35SuR4UwiRPp5swAWuoQSY=s0-w200-h112-dcgaGW8TinDqBb7Hs",
+      "publisher": "Pravda ",
+      "date": "2022-08-26T07:00:00Z"
+    },
+    {
+      "id": 35,
+      "title": "Familiares denunciam falta de água e eletricidade na Penitenciária de Uberaba",
+      "link": "https://news.google.com./articles/CBMihgFodHRwczovL3d3dy5pdGF0aWFpYS5jb20uYnIvZWRpdG9yaWFzL2NpZGFkZXMvMjAyMi8wOC8wNC9mYW1pbGlhcmVzLWRlbnVuY2lhbS1mYWx0YS1kZS1hZ3VhLWUtZWxldHJpY2lkYWRlLW5hLXBlbml0ZW5jaWFyaWEtZGUtdWJlcmFiYdIBigFodHRwczovL3d3dy5pdGF0aWFpYS5jb20uYnIvZWRpdG9yaWFzL2NpZGFkZXMvMjAyMi8wOC8wNC9mYW1pbGlhcmVzLWRlbnVuY2lhbS1mYWx0YS1kZS1hZ3VhLWUtZWxldHJpY2lkYWRlLW5hLXBlbml0ZW5jaWFyaWEtZGUtdWJlcmFiYT9hbXA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/u1_adgQ80FCNHIVSkryV7uAPyEOS1fozo0OAbfBrVe2LHH9DQ_wiYL4PE2KexQE2AyZeNpDLdj1_9KCnfH6SF9kHPmb2CpfTF4MAWSx-mAbm9xeZekqmhPMw8ymtlbSXSVnVj-_dbT_1TyjQiztmbKfRpprQL1si8enf2zeI7f8bsG_9VAvjPPWwfrdtoHkmLiKoknxWW2NlW6hnP6w4pcDqy-h64ADp6wPXL-uV=s0-w200-h112-dcAaAI",
+      "publisher": "Itatiaia",
+      "date": "2022-08-04T07:00:00Z"
+    },
+    {
+      "id": 36,
+      "title": "Tereos e Lemon Energia vão fornecer eletricidade a biogás no interior de SP",
+      "link": "https://news.google.com./articles/CBMiYGh0dHBzOi8vZXBici5jb20uYnIvdGVyZW9zLWUtbGVtb24tZW5lcmdpYS12YW8tZm9ybmVjZXItZWxldHJpY2lkYWRlLWEtYmlvZ2FzLW5vLWludGVyaW9yLWRlLXNwL9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/GBho_3Uamdd7RhKgKgBfPe9RyYJUvoUwGMONDwRU9AYDZ5GEpk4WSmpIcw8bK7rb4LMfif1VObNeLr6axvUiZ03oIxLcqdFx6YaTuPrraPQdYbUv1KkvhHZ6wxNRBMc=s0-w200-h112-dcfQA8",
+      "publisher": "epbr",
+      "date": "2022-07-27T07:00:00Z"
+    },
+    {
+      "id": 37,
+      "title": "Mobilidade elétrica é alternativa para melhorar o transporte público",
+      "link": "https://news.google.com./articles/CBMiWmh0dHBzOi8vbW9iaWxpZGFkZXNhbXBhLmNvbS5ici8yMDIyLzA3L21vYmlsaWRhZGUtZWxldHJpY2EtYWx0ZXJuYXRpdmEtdHJhbnNwb3J0ZS1wdWJsaWNvL9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/V6S2Pe81HZX3z1tRjgPIwz5W1GIWGeVZqfFcOnyyGArqCxRqMm7X4Ed7Wbszdufa52JzoyC8NkXafxC3cwGhvYAFdAVqgJntqcoXa0CQ8TW2VIQn4oR13HX0j-jPBUMAa1i2iACd2qC3JzlzlBU=s0-w200-h112-dcoaEG",
+      "publisher": "Mobilidade Sampa",
+      "date": "2022-07-24T07:00:00Z"
+    },
+    {
+      "id": 38,
+      "title": "Representando 3% do PIB, setor minero-siderúrgico consome 11% da eletricidade no Brasil",
+      "link": "https://news.google.com./articles/CBMifGh0dHBzOi8vb2JzZXJ2YXRvcmlvZGFtaW5lcmFjYW8uY29tLmJyL3JlcHJlc2VudGFuZG8tMy1kby1waWItc2V0b3ItbWluZXJvLXNpZGVydXJnaWNvLWNvbnNvbWUtMTEtZGEtZWxldHJpY2lkYWRlLW5vLWJyYXNpbC_SAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/Gse-gy5dbDPweNRd3TUDoWBYJ6oqpmfwKjBB5K-mh-COEVA-iU174i5Nl86iMWsfMSbwF00End2IBZ0_-jkwTpKtwePr_28XAKx670XnBov0G1EVG96xVe_RsJLZKKd6gHLP0tHzS9yHz0LJy_5wXNy5iM56KtLHHRIZOUKaJBUwpbDRoFQ8Y7vZq4M=s0-w200-h112-dcAUGIpS0F",
+      "publisher": "Observatório da Mineração",
+      "date": "2022-07-14T07:00:00Z"
+    },
+    {
+      "id": 39,
+      "title": "Prefeitura de Maceió",
+      "link": "https://news.google.com./articles/CBMimAFodHRwczovL21hY2Vpby5hbC5nb3YuYnIvbm90aWNpYXMvc21zL2NlcmVzdC1yZWdpb25hbC1tYWNlaW8tY2FwYWNpdGEtcG9saWNpYWlzLW1pbGl0YXJlcy1zb2JyZS1wcmV2ZW5jYW8tZGUtYWNpZGVudGVzLWNvbS1lbGV0cmljaWRhZGUtbmVzdGEtc2VndW5kYS0wNNIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/X5OYd5nCPKhohcy0OqXKHaJCUEijV_qZr5XAOjWQ2g4_f41bFpVaZ0ScH4hvE8iL47ieEL5DwldaUnt8y5aFL6WnXsl4tSxW84fStOxEUFpg2Cvv9JN98-rdVj8PfUCuIUiDJymHZ9T_TSiaouBCFb0OooJzYw=s0-w200-h112-dcAVCKYBeqDo7pmms",
+      "publisher": "Prefeitura de Maceió",
+      "date": "2022-07-02T07:00:00Z"
+    },
+    {
+      "id": 40,
+      "title": "Pesquisadores investigam como converter etanol em eletricidade e hidrogênio por meio de reforma eletroquímica",
+      "link": "https://news.google.com./articles/CBMijQFodHRwczovL2pvcm5hbC51c3AuYnIvY2llbmNpYXMvcGVzcXVpc2Fkb3Jlcy1pbnZlc3RpZ2FtLWNvbW8tY29udmVydGVyLWV0YW5vbC1lbS1lbGV0cmljaWRhZGUtZS1oaWRyb2dlbmlvLXBvci1tZWlvLWRlLXJlZm9ybWEtZWxldHJvcXVpbWljYS_SAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/qZxrRNp0e4uIh3Bla53-sdXczkt4jVqpFb-Xb6US6gs4HkLvmbrEcx4aw9RseTP2DwmtMnXw66sCxwDA13jGuGX3P0iCeJmMoTO1SecAMrnemK8VFGwo4_jOVAboaWOIDTvB2Wj8SMzmsfUa37nU3IrIFtv0FsMbORxnDtKOA1QtP-RCMC6X6p2WEA=s0-w200-h112-dcEQCKkiwF",
+      "publisher": "USP",
+      "date": "2022-06-22T07:00:00Z"
+    },
+    {
+      "id": 41,
+      "title": "Relatório estima que 8% da população não terá acesso à energia em 2030",
+      "link": "https://news.google.com./articles/CBMiZmh0dHBzOi8vYnJhc2lsLnVuLm9yZy9wdC1ici8xODQ1ODAtcmVsYXRvcmlvLWVzdGltYS1xdWUtOC1kYS1wb3B1bGFjYW8tbmFvLXRlcmEtYWNlc3NvLWVuZXJnaWEtZW0tMjAzMNIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/gmgi690Wl6NVdxagsqXZG1XmG1ZGqXuRLWW2nYItTkzTUlCIgw0daowuev4-xiyEf9vuilGyb3U-kI06AXsIiM8fE-X7UMmnmfceqGMO_AoJNtRbckzHp_qnP4029_TWF8R7jMuMTRq2abT99aizAfo784H-u1KtFXUStt2Vw2VGAl7Z-0gP4FM4An8hMkIhWm9gR2__SSjNn4B2=s0-w200-h112-dcgRCOxJQJ",
+      "publisher": "United Nations",
+      "date": "2022-06-02T07:00:00Z"
+    },
+    {
+      "id": 42,
+      "title": "Novo tecido é capaz de converter movimento em eletricidade",
+      "link": "https://news.google.com./articles/CBMiVWh0dHBzOi8vd3d3LmVjeWNsZS5jb20uYnIvbm92by10ZWNpZG8tZS1jYXBhei1kZS1jb252ZXJ0ZXItbW92aW1lbnRvLWVtLWVsZXRyaWNpZGFkZS_SAVlodHRwczovL3d3dy5lY3ljbGUuY29tLmJyL25vdm8tdGVjaWRvLWUtY2FwYXotZGUtY29udmVydGVyLW1vdmltZW50by1lbS1lbGV0cmljaWRhZGUvYW1wLw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/IzslMVuj6Tb7au0T3PNXnCl52Jr_GpGayvWbr_ac259IRP89Jzoiqr3aamAgZL6phTP3uW-iNB3_L1Jn1YbIne2SuF0gK6A_Ly-qPaOGrT1fPkEcYtginu59DjsB7Rc1W3cS2n6WKVRygjDpY-Jj0LNW1XRu3racxKlJ1ljT5dWjOOrx95Vq=s0-w200-h112-dcITQO",
+      "publisher": "eCycle",
+      "date": "2022-06-02T07:00:00Z"
+    },
+    {
+      "id": 43,
+      "title": "Refrigerador subterrâneo mantém cerveja gelada sem eletricidade",
+      "link": "https://news.google.com./articles/CBMibWh0dHBzOi8vY2ljbG92aXZvLmNvbS5ici9pbm92YWNhby90ZWNub2xvZ2lhL3JlZnJpZ2VyYWRvci1zdWJ0ZXJyYW5lby1tYW50ZW0tY2VydmVqYS1nZWxhZGEtc2VtLWVsZXRyaWNpZGFkZS_SAXFodHRwczovL2NpY2xvdml2by5jb20uYnIvaW5vdmFjYW8vdGVjbm9sb2dpYS9yZWZyaWdlcmFkb3Itc3VidGVycmFuZW8tbWFudGVtLWNlcnZlamEtZ2VsYWRhLXNlbS1lbGV0cmljaWRhZGUvYW1wLw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/ja8OaWg3RX0_L9pqJCqQAUykeNR2bzI-MQ0a58hLPgmRO7fUElmXEv4Ix7n1L3bcO-raCz16KEziaUkNw8wL87NebXe9d_mJfaSsFTKRMKdR8nGUON8KHmwInpYmgknNHVewJJYncg9QuQt0mYqv3z5pwnpKWw=s0-w200-h112-dcAXCISzoH",
+      "publisher": "CicloVivo",
+      "date": "2022-07-11T07:00:00Z"
+    },
+    {
+      "id": 44,
+      "title": "Crianças e eletricidade: saiba como prevenir acidentes dentro das residências",
+      "link": "https://news.google.com./articles/CBMihwFodHRwczovL3d3dy5hY29yZGFjaWRhZGUuY29tLmJyL25vdGljaWFzL2ZlaXJhLWRlLXNhbnRhbmEvY3JpYW5jYXMtZS1lbGV0cmljaWRhZGUtc2FpYmEtY29tby1wcmV2ZW5pci1hY2lkZW50ZXMtZGVudHJvLWRhcy1yZXNpZGVuY2lhcy_SAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/Fxh8ReIFI97pXIXHaDQc76pVd35EHhgH0wx52Z0W6UT5Xy7FCZaesgSCYBccWwx096qe2P6r4BtGl6lro7rAPQ2mFL4gN2N7lzf3SeyZXqYW-5gZ5WpNIQQa2kL9cmGrwAVyhxVHOki_s-H7AhyiwawROpygXOpA3GD3FIehGB29Ae58Ug=s0-w200-h112-dcrTOAUhkJ",
+      "publisher": "Acorda Cidade",
+      "date": "2022-07-20T07:00:00Z"
+    },
+    {
+      "id": 45,
+      "title": "HYUNDAI: CONCEITOS ESPORTIVOS COM HIDROGÊNIO E ELETRICIDADE",
+      "link": "https://news.google.com./articles/CBMiYmh0dHBzOi8vYXV0b2VudHVzaWFzdGFzLmNvbS5ici8yMDIyLzA3L2h5dW5kYWktY29uY2VpdG9zLWVzcG9ydGl2b3MtY29tLWhpZHJvZ2VuaW8tZS1lbGV0cmljaWRhZGUv0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/JvFnN5CdkeuvkN1g99tLfzdsIjqgqkfmukbC5cquSXAmUPgouKXL6LdB5OEM-wMewmZrq0k70IaZXeBZOUuNfIB_lYyWX-KA0J0-W63Dm5SjC9hf8OedKU01OwXZ7Pt8DG3VJ9YAhU6wXZUvSkCZsLc=s0-w200-h112-dcBTCOJqroavAB",
+      "publisher": "Autoentusiastas",
+      "date": "2022-07-16T07:00:00Z"
+    },
+    {
+      "id": 46,
+      "title": "Bateria autocarregável usa umidade do ar para gerar eletricidade",
+      "link": "https://news.google.com./articles/CBMiYWh0dHBzOi8vb2xoYXJkaWdpdGFsLmNvbS5ici8yMDIyLzA1LzE5L3Jldmlld3MvYmF0ZXJpYS1hdXRvY2FycmVnYXZlbC11bWlkYWRlLWRvLWFyLWVsZXRyaWNpZGFkZS_SAWVodHRwczovL29saGFyZGlnaXRhbC5jb20uYnIvMjAyMi8wNS8xOS9yZXZpZXdzL2JhdGVyaWEtYXV0b2NhcnJlZ2F2ZWwtdW1pZGFkZS1kby1hci1lbGV0cmljaWRhZGUvYW1wLw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/D8mqUdh6FiK7i2c8hKX8lHHB3WXGtRYABbcj_N1BFyRNAcrqa5vzLU-Jl7K3zyOQJ7cWz_DciZKItQJT0R91eGHJkcX8CQzzvy--x9aazb9E9fgtllFimVnY5ufJCsei2OLgzkrShaLj4j3E6bPw=s0-w200-h112-dcDXAS",
+      "publisher": "Olhar Digital",
+      "date": "2022-05-19T07:00:00Z"
+    },
+    {
+      "id": 47,
+      "title": "Produção de energia elétrica renovável no Brasil é o triplo da mundial",
+      "link": "https://news.google.com./articles/CBMilAFodHRwczovL2FnZW5jaWFicmFzaWwuZWJjLmNvbS5ici9yYWRpb2FnZW5jaWEtbmFjaW9uYWwvZWNvbm9taWEvYXVkaW8vMjAyMi0wNS9wcm9kdWNhby1kZS1lbmVyZ2lhLWVsZXRyaWNhLXJlbm92YXZlbC1uby1icmFzaWwtZS1vLXRyaXBsby1kYS1tdW5kaWFs0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "publisher": "EBC",
+      "date": "2022-05-30T07:00:00Z"
+    },
+    {
+      "id": 48,
+      "title": "Rússia cancela envio de eletricidade à Finlândia, e Ucrânia vê contra-ataque em Kharkiv",
+      "link": "https://news.google.com./articles/CBMigQFodHRwczovL3d3dy5icmFzaWxkZWZhdG8uY29tLmJyLzIwMjIvMDUvMTQvcnVzc2lhLWNhbmNlbGEtZW52aW8tZGUtZWxldHJpY2lkYWRlLWEtZmlubGFuZGlhLWUtdWNyYW5pYS12ZS1jb250cmEtYXRhcXVlLWVtLWtoYXJraXbSAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/mvpjmt5jYDvpIm--O5R3Fb6Mr7trbadgmlPVv2Wju0EpiAyDdNWatQ7bgNUtCC9B3LKb7vja94g1s5dW7sop3SUZoEducrC7nahpk9vNo8wuncXpau32yWki1F3EyeFqgp_oJXI=s0-w200-h112-dcAQCEsBykixC5h4I",
+      "publisher": "Brasil de Fato",
+      "date": "2022-05-14T07:00:00Z"
+    },
+    {
+      "id": 49,
+      "title": "Saída tributária para redução da tarifa de eletricidade será debatida na CI",
+      "link": "https://news.google.com./articles/CBMihAFodHRwczovL3d3dzEyLnNlbmFkby5sZWcuYnIvbm90aWNpYXMvbWF0ZXJpYXMvMjAyMi8wNS8xMy9zYWlkYS10cmlidXRhcmlhLXBhcmEtcmVkdWNhby1kYS10YXJpZmEtZGUtZWxldHJpY2lkYWRlLXNlcmEtZGViYXRpZGEtbmEtY2nSAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/YvTt5lIhQYNuim_smK6p9OBb12zUEOjJAD8oGyX-HVcczpZy696XJbBiyMzz9iloUcyTUDQM1K95v5dKeNmTEmtsveDDViBeERKN7gva_3QJdB_R_pyiL_3M6xu6QhkjenLuqsYU17i1JP2kodeWAMfbjKTMnwPlGz089HdgDciwq948nqUZBxHCa3TKM14ZMH0fejtfcfsgrPrX2A59-jMs_bnuvERnKlfUsojTcs5SOlandqA1nk0FSQzz-HFIuKhVPD9fiqph7YXP9J8AF0hlTop_qmVsZOlzAFIFVw=s0-w200-h112-dcgVGMryEJ",
+      "publisher": "Senado Federal",
+      "date": "2022-05-13T07:00:00Z"
+    },
+    {
+      "id": 50,
+      "title": "Segurança com eletricidade é debatida em escola municipal de Cedro",
+      "link": "https://news.google.com./articles/CBMiZWh0dHBzOi8vaWZjZS5lZHUuYnIvY2Vkcm8vbm90aWNpYXMvc2VndXJhbmNhLWNvbS1lbGV0cmljaWRhZGUtZS1kZWJhdGlkYS1lbS1lc2NvbGEtbXVuaWNpcGFsLWRlLWNlZHJv0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/CFf7ieFFhdqODtgRcSuVQ4yuKR_pa6ti7DYLseai1h1cJ0viMwJ5q-aZfsMlNIjti6ODRp_X_mAlX5oN0JUJ37OehWd7PTP6z9gbZBRttFC4hOiSosagD9eWopCfqFWKK1PUVyt9t_pwz9ABSbnZjFiQjnnZ_rvM-NK2DPfI_nBjiyH96FPlMLC2TKazaleRF253BtHRa_r0qIb6SJOiOPJCXrTAGZSoZnfBpZuTbjeN1x4uc5aHG2vhfinHK_i5CQ=s0-w200-h112-dcAbCKRbykeRcB",
+      "publisher": "IFCE - CE",
+      "date": "2022-06-06T07:00:00Z"
+    },
+    {
+      "id": 51,
+      "title": "Açúcar do próprio corpo é usado por célula de combustível para gerar eletricidade - Planeta",
+      "link": "https://news.google.com./articles/CBMidGh0dHBzOi8vd3d3LnJldmlzdGFwbGFuZXRhLmNvbS5ici9hY3VjYXItZG8tcHJvcHJpby1jb3Jwby1lLXVzYWRvLXBvci1jZWx1bGEtZGUtY29tYnVzdGl2ZWwtcGFyYS1nZXJhci1lbGV0cmljaWRhZGUv0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/ZQZJIihxgetEYFVgUw22DDwict0vrCtg39_GPWqn42pAGT8EJRfnqzAuFjB7K-WeZ_AbMDmKPJ-DC1h-MlG0MPcaYecKLpFOt3irFVg2bhiR2-_Zyl8N-ihGs20kolmbvEDfog587pPZSui4-VsJR1Nx=s0-w200-h112-dcHUOQbaEI",
+      "publisher": "Revista Planeta",
+      "date": "2022-05-16T07:00:00Z"
+    },
+    {
+      "id": 52,
+      "title": "Aceleramos o Kia EV6 de São Paulo ao Uruguai apenas com eletricidade",
+      "link": "https://news.google.com./articles/CBMicGh0dHBzOi8vbW9iaWxpZGFkZS5lc3RhZGFvLmNvbS5ici9pbm92YWNhby9hY2VsZXJhbW9zLW8ta2lhLWV2Ni1kZS1zYW8tcGF1bG8tYW8tdXJ1Z3VhaS1hcGVuYXMtY29tLWVsZXRyaWNpZGFkZS_SAXRodHRwczovL21vYmlsaWRhZGUuZXN0YWRhby5jb20uYnIvaW5vdmFjYW8vYWNlbGVyYW1vcy1vLWtpYS1ldjYtZGUtc2FvLXBhdWxvLWFvLXVydWd1YWktYXBlbmFzLWNvbS1lbGV0cmljaWRhZGUvYW1wLw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/KJDnx8iptHB8kkotC7Yec-1-zWAqX-2b2K-VBOyBWDSVqQlwnfLK9J_01LCv2DOkTTkRVcyXmpwqmWcVoXITDGZg4AZuqn0eOJIVj3d58wAonEFhg6fi7l6W2mpf31WBH4b6=s0-w200-h112-dcCTAS",
+      "publisher": "Mobilidade Estadão",
+      "date": "2022-05-02T07:00:00Z"
+    },
+    {
+      "id": 53,
+      "title": "O que é mais barato, cozinhar usando gás ou eletricidade?",
+      "link": "https://news.google.com./articles/CBMiV2h0dHBzOi8vZWNvbm9taWEuaWcuY29tLmJyLzIwMjItMDUtMDEvbWFpcy1iYXJhdG8tY296aW5oYXItdXNhbmRvLWdhcy1lbGV0cmljaWRhZGUuaHRtbNIBW2h0dHBzOi8vZWNvbm9taWEuaWcuY29tLmJyLzIwMjItMDUtMDEvbWFpcy1iYXJhdG8tY296aW5oYXItdXNhbmRvLWdhcy1lbGV0cmljaWRhZGUuaHRtbC5hbXA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/ioBSmO9BpyAWwn0ZzUOCBbaxWmDhfobCm37dZmgMAWgoJJtx7ySYxLP75ioYRqoNk-ckDkCxuQQM32EfwRzaQJql-vGzTg39ustcojfQkR8cs7AcqIEODsNTu5L-G0znh8gLcGgispEo=s0-w200-h112-dcATCGqSXkuesB",
+      "publisher": "ig.com.br",
+      "date": "2022-05-01T07:00:00Z"
+    },
+    {
+      "id": 54,
+      "title": "A cada dois acidentes com energia elétrica no Brasil, um acaba em morte, diz levantamento",
+      "link": "https://news.google.com./articles/CBMigwFodHRwczovL3d3dy5ob2plZW1kaWEuY29tLmJyL2dlcmFsL2EtY2FkYS1kb2lzLWFjaWRlbnRlcy1jb20tZW5lcmdpYS1lbGV0cmljYS1uby1icmFzaWwtdW0tYWNhYmEtZW0tbW9ydGUtZGl6LWxldmFudGFtZW50by0xLjg5NjgyN9IBiQFodHRwczovL3d3dy5ob2plZW1kaWEuY29tLmJyL2dlcmFsL2EtY2FkYS1kb2lzLWFjaWRlbnRlcy1jb20tZW5lcmdpYS1lbGV0cmljYS1uby1icmFzaWwtdW0tYWNhYmEtZW0tbW9ydGUtZGl6LWxldmFudGFtZW50by0xLjg5NjgyNz9hbXA9MQ?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/_tSnwCKJvJPewAPNpbyWkYr2HTzpYlTHeZdPoundzw7kfxLYasO4chjc14HfNUs3nUhX6ivHRzbkmSWaEWd-bywQNGBGc2oeyyOWJ2xXoqw1UDsnhfVuc6N88UOBk2G4GzSdMNlN-g5YBkhsms4j69OrZj47cEalhguq=s0-w200-h112-dcHRaEC6YE",
+      "publisher": "Hoje em Dia",
+      "date": "2022-04-28T07:00:00Z"
+    },
+    {
+      "id": 55,
+      "title": "Energias eólica e solar geraram 10% da eletricidade global pela primeira vez",
+      "link": "https://news.google.com./articles/CBMicGh0dHBzOi8vcHJvamV0b2NvbGFib3JhLmNvbS5ici9vZHM3L2VuZXJnaWFzLWVvbGljYS1lLXNvbGFyLWdlcmFyYW0tMTAtZGEtZWxldHJpY2lkYWRlLWdsb2JhbC1wZWxhLXByaW1laXJhLXZlei_SAXBodHRwczovL3Byb2pldG9jb2xhYm9yYS5jb20uYnIvb2RzNy9lbmVyZ2lhcy1lb2xpY2EtZS1zb2xhci1nZXJhcmFtLTEwLWRhLWVsZXRyaWNpZGFkZS1nbG9iYWwtcGVsYS1wcmltZWlyYS12ZXov?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/rV_ZMmZybvM8RT_ChWArmcdMvjkf-GiST8CGZlBYJVE1I5ShLayz6Gt2wIEGuTuMgpgwWq9GfRZ0gAsdZXiq5N4yyGXBUITb3H62sqR1ebn4SKJ1NcyxHeDPuUDhF93cq70mD-dSWGHQNOG56Xbtn67W003SMe2bol5IQnx2um0=s0-w200-h112-dcAXYM",
+      "publisher": "Projeto Colabora",
+      "date": "2022-04-06T07:00:00Z"
+    },
+    {
+      "id": 56,
+      "title": "Câmera Record mostra o drama de quem vive sem eletricidade em regiões isoladas do país",
+      "link": "https://news.google.com./articles/CBMijAFodHRwczovL3JlY29yZHR2LnI3LmNvbS9jYW1lcmEtcmVjb3JkL3ZpZGVvcy9jYW1lcmEtcmVjb3JkLW1vc3RyYS1vLWRyYW1hLWRlLXF1ZW0tdml2ZS1zZW0tZWxldHJpY2lkYWRlLWVtLXJlZ2lvZXMtaXNvbGFkYXMtZG8tcGFpcy0zMDA1MjAyMtIBkAFodHRwczovL3JlY29yZHR2LnI3LmNvbS9jYW1lcmEtcmVjb3JkL3ZpZGVvcy9jYW1lcmEtcmVjb3JkLW1vc3RyYS1vLWRyYW1hLWRlLXF1ZW0tdml2ZS1zZW0tZWxldHJpY2lkYWRlLWVtLXJlZ2lvZXMtaXNvbGFkYXMtZG8tcGFpcy0zMDA1MjAyMj9hbXA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/erlQJ4VEnLQpwal2yDoKrm8RqJKmLnAVmVYJO9jj-Z-uEFVQYY7WphNfIOYsx5DjAnNMgEdcRzcg9ZweBJwet-35yHq-XSP5BCo1V-vd3tzw0bMwJljMVV-BI8idcdWp8kMTLHbsjp8TuTiqDxkVvITeVeSO0mAztUGFYxPJUYecGsEjb31M6ZhXEYq35KcLvEL9IjG1lu-OJWrxeufZq3LES2k7lEhtIzwEC0gqAN7w=s0-w200-h112-dcCTSEKEokZMYC",
+      "publisher": "R7",
+      "date": "2022-05-26T07:00:00Z"
+    },
+    {
+      "id": 57,
+      "title": "Inflação recua em janeiro para 8,4%. Eletricidade baixou mas preço do supermercado subiu",
+      "link": "https://news.google.com./articles/CBMiiAFodHRwczovL3d3dy5kaW5oZWlyb3Zpdm8ucHQvZWNvbm9taWEvaW5mbGFjYW8tcmVjdWEtZW0tamFuZWlyby1wYXJhLTg0LWVsZXRyaWNpZGFkZS1iYWl4b3UtbWFzLXByZWNvLWRvLXN1cGVybWVyY2Fkby1zdWJpdS0xNTgxNTA3OC5odG1s0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/buq6_Ssg-KmCvuB6gwudS7SqMj5dSAr4B5F1YDIV__9ba4PXWdfpHJBvmpV0RItQsT7XpjyHEWy0EJaezlZHO_cu2M2czgIRQ_D0c3gsnuGu3Vlvgu5nukxRNoQ2UmHpmRoRy-i8pvJiW-AJH9e1JTCWBbDrFC3rQ-0E92aUDGqvhfHIAn5s6K0=s0-w200-h112-dcEVCUliQI",
+      "publisher": "Dinheiro Vivo",
+      "date": "2023-02-10T11:16:00Z"
+    },
+    {
+      "id": 58,
+      "title": "Wiltz, Winseler e Wincrange ficaram novamente sem luz",
+      "link": "https://news.google.com./articles/CBMib2h0dHBzOi8vd3d3LndvcnQubHUvcHQvbHV4ZW1idXJnby93aWx0ei13aW5zZWxlci1lLXdpbmNyYW5nZS1maWNhcmFtLW5vdmFtZW50ZS1zZW0tbHV6LTYzZTUzNTQ5ZGUxMzViOTIzNjQ2ZDk3OdIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/1JiVM_Fp8Hg4nIHlNTCfRUejziWINqnn_NAXcvedw3zRIk-5pshKLg25JmNgyawGq09Y9mxhO6oyQJwWehzlQ1FtFjU9zkEpNYXwexlqQ1BOYbUF1XoZMgYow9R8bELOgq-oS3xOUnqJsyqB7OsNSBRENEoyCatvVrxL2VkdIaqsKC8oaAwhEDmjr0to8NGtNWrXwQ=s0-w200-h112-dctWQM",
+      "publisher": "Luxemburger Wort",
+      "date": "2023-02-09T18:02:49Z"
+    },
+    {
+      "id": 59,
+      "title": "Conselho de Ilha da Terceira preocupado com aumento do custo da electricidade para empresas",
+      "link": "https://news.google.com./articles/CBMihQFodHRwczovL3d3dy5kbm90aWNpYXMucHQvMjAyMy8yLzkvMzQ3NzkxLWNvbnNlbGhvLWRlLWlsaGEtZGEtdGVyY2VpcmEtcHJlb2N1cGFkby1jb20tYXVtZW50by1kby1jdXN0by1kYS1lbGVjdHJpY2lkYWRlLXBhcmEtZW1wcmVzYXMv0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/RHgCqUPh19ZMi6w7BaduMxFmp0p9nQCFlklmKBvaVXa-dfxW6IGdEtWT_KR4yTqmV3poCMzbbavNuVHZ2O49CySOjErRuG7ceCb3uzs8Mnf92Ftl3Na6KlufGWGr19FoP4VNLScTw_Oa8C6L8pY8Pb76hEsOEvlYOUo5iHxTbKWjaDMiZCBU=s0-w280-h168-dcVQCMOQQI",
+      "publisher": "Diário de Notícias Madeira",
+      "date": "2023-02-09T16:59:00Z"
+    },
+    {
+      "id": 60,
+      "title": "Empresários nos Açores alertam para impactos provocados pelo aumento dos custos da energia",
+      "link": "https://news.google.com./articles/CBMiiQFodHRwczovL3d3dy5kaW5oZWlyb3Zpdm8ucHQvbHVzYS9lbXByZXNhcmlvcy1ub3MtYWNvcmVzLWFsZXJ0YW0tcGFyYS1pbXBhY3Rvcy1wcm92b2NhZG9zLXBlbG8tYXVtZW50by1kb3MtY3VzdG9zLWRhLWVuZXJnaWEtMTU4MDM2MDMuaHRtbNIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "publisher": "Dinheiro Vivo",
+      "date": "2023-02-08T17:55:00Z"
+    },
+    {
+      "id": 61,
+      "title": "Empresários alertam para impactos provocados pelo aumento dos custos da energia",
+      "link": "https://news.google.com./articles/CBMifmh0dHBzOi8vd3d3LmFjb3JpYW5vb3JpZW50YWwucHQvbm90aWNpYS9lbXByZXNhcmlvcy1hbGVydGFtLXBhcmEtaW1wYWN0b3MtcHJvdm9jYWRvcy1wZWxvLWF1bWVudG8tZG9zLWN1c3Rvcy1kYS1lbmVyZ2lhLTM0NzYxMNIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "publisher": "Açoriano Oriental",
+      "date": "2023-02-08T17:09:00Z"
+    },
+    {
+      "id": 62,
+      "title": "Mecanismo Ibérico. Portugal e Espanha iniciam \"trabalho técnico\" para prolongar redução da fatura da electricidade",
+      "link": "https://news.google.com./articles/CBMingFodHRwczovL3d3dy5kbi5wdC9pbnRlcm5hY2lvbmFsL21lY2FuaXNtby1pYmVyaWNvLXBvcnR1Z2FsLWUtZXNwYW5oYS1pbmljaWFtLXRyYWJhbGhvLXRlY25pY28tcGFyYS1wcm9sb25nYXItcmVkdWNhby1kYS1mYWN0dXJhLWRhLWVsZWN0cmljaWRhZGUtMTU2ODEzOTIuaHRtbNIBogFodHRwczovL3d3dy5kbi5wdC9pbnRlcm5hY2lvbmFsL2FtcC9tZWNhbmlzbW8taWJlcmljby1wb3J0dWdhbC1lLWVzcGFuaGEtaW5pY2lhbS10cmFiYWxoby10ZWNuaWNvLXBhcmEtcHJvbG9uZ2FyLXJlZHVjYW8tZGEtZmFjdHVyYS1kYS1lbGVjdHJpY2lkYWRlLTE1NjgxMzkyLmh0bWw?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/ADsdRbYoK0js9oGwHLWED78yVuujxokztcw9p4Vxf1UWZqcvBh4bXZ022s-uFezn42xP915RZVlRtoOuehC1I6_GNqvghDjNCNc5oA5hd_7hXOGVAiTjY8qMPr1ZjvDXVGK2HjkzvieeQhRBedOfNaUTwRAyDz9UQqaXrkvE3_bKzGazlCGdNMw=s0-w200-h112-dcPVOMMqUH",
+      "publisher": "Diário de Notícias",
+      "date": "2023-01-18T08:00:00Z"
+    },
+    {
+      "id": 63,
+      "title": "Quintas de energia? Cientistas criam plantas que produzem eletricidade!",
+      "link": "https://news.google.com./articles/CBMifGh0dHBzOi8vd3d3LnRlbXBvLnB0L25vdGljaWFzL2NpZW5jaWEvcXVpbnRhcy1kZS1lbmVyZ2lhLWNpZW50aXN0YXMtY3JpYW0tcGxhbnRhcy1xdWUtcHJvZHV6ZW0tZWxldHJpY2lkYWRlLWFncmljdWx0dXJhLmh0bWzSAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/23Ld7ray7Y4wlXdshEEfOjyjt6CusxYyGBceazz7D0sy3-9xEvcMnTYaQIOIZGDO3MO7ZIB09ch84CJiH0iFlQPSx6_WF9idq5z8nmuaeivCvSPP_sQdJw-OlKYqynGbnlSgSFBp3-K8MytXFNIUlm89F3ipsH_qx-KQOyeXev5seU1ruLGJi0iWWY15GNUduoDgDa0-CLOHFa4Ghw0FJQ8XrA=s0-w200-h112-dcATCOpCkG",
+      "publisher": "Tempo.pt",
+      "date": "2023-01-20T08:00:00Z"
+    },
+    {
+      "id": 64,
+      "title": "Parque fotovoltaico em Soure pode fornecer electricidade a 8 mil habitações",
+      "link": "https://news.google.com./articles/CBMiaGh0dHBzOi8vd3d3LnBvbWJhbGpvcm5hbC5wdC9wYXJxdWUtZm90b3ZvbHRhaWNvLWVtLXNvdXJlLXBvZGUtZm9ybmVjZXItZWxlY3RyaWNpZGFkZS1hLTgtbWlsLWhhYml0YWNvZXMv0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/Nidwt1NoCtwW64fWopu5npgfiMt0mgR66qJT7do-Ui6ZmhXy51mL2nakkULJvIq_xzxTdMBQNyKMpUSaw6TsD_uhKIeClDQCAYXjcJ2d3zvxBU9K_76i1Un6vlNxlyQfEw=s0-w200-h112-dcmQKSCZEK",
+      "publisher": "Pombal Jornal",
+      "date": "2023-01-12T08:00:00Z"
+    },
+    {
+      "id": 65,
+      "title": "Porque nos chegam a casa faturas negativas de eletricidade?",
+      "link": "https://news.google.com./articles/CBMia2h0dHBzOi8vZXhwcmVzc28ucHQvb3Bpbmlhby8yMDIzLTAyLTA3LVBvcnF1ZS1ub3MtY2hlZ2FtLWEtY2FzYS1mYXR1cmFzLW5lZ2F0aXZhcy1kZS1lbGV0cmljaWRhZGUtLWNmZTFhNTdl0gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "publisher": "Expresso",
+      "date": "2023-02-07T16:57:00Z"
+    },
+    {
+      "id": 66,
+      "title": "No meio da natureza, ele vive há 51 anos sem electricidade e nem pensa nos custos da energia",
+      "link": "https://news.google.com./articles/CBMidWh0dHBzOi8vd3d3LnB1YmxpY28ucHQvMjAyMi8xMi8yNy9wMy9ub3RpY2lhL21laW8tbmF0dXJlemEtdml2ZS1oYS01MS1hbm9zLWVsZWN0cmljaWRhZGUtcGVuc2EtY3VzdG9zLWVuZXJnaWEtMjAzMjQ0NNIBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/hl5FuCIjBq7LkFGqYbIaDrjKnDhGi_s4fC3Znufu50mXVdWYvx3FJ3xW7Xw_1D7gyqgXk-PAZOyOAEdv9j5TYusvZsvN_DnUG4O2yZ3YRwKXzersLOj0ZuVjCJ86BM8M7bF9qw=s0-w200-h112-dcqZSQjzkG",
+      "publisher": "Público",
+      "date": "2022-12-27T08:00:00Z"
+    },
+    {
+      "id": 67,
+      "title": "Tribunal de Montemor-o-Velho sem serviços por falta de electricidade",
+      "link": "https://news.google.com./articles/CBMibWh0dHBzOi8vd3d3LmNhbXBlYW9wcm92aW5jaWFzLnB0L25vdGljaWEvdHJpYnVuYWwtZGUtbW9udGVtb3Itby12ZWxoby1zZW0tc2Vydmljb3MtcG9yLWZhbHRhLWRlLWVsZWN0cmljaWRhZGXSAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/H-UzRfN-AQMJRD9QAme3_w_JqG7K2vrpqft9sgRDvLe43URtf9OCZMeZolFj60ijUGZgSzZg4ICIsqnYdCkktII11yuH9bMjKyX5vklhVfU81wvQmciExBsI2P21gLFVyWV7siMZgZeb93f3Ig7os9IhV0we=s0-w200-h112-dcAYAQ",
+      "publisher": "Campeão das Províncias",
+      "date": "2023-01-06T08:00:00Z"
+    },
+    {
+      "id": 68,
+      "title": "Apontado para o céu, um poderoso laser funciona como pára-raios",
+      "link": "https://news.google.com./articles/CBMiaGh0dHBzOi8vd3d3LnB1YmxpY28ucHQvMjAyMy8wMS8xNi9jaWVuY2lhL25vdGljaWEvYXBvbnRhZG8tY2V1LXBvZGVyb3NvLWxhc2VyLWZ1bmNpb25hLXBhcmFyYWlvcy0yMDM1MjU40gEA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/lnIppocWuQhZCuck5JDsSWZI-buNGOJ5yvPxx29kTbrEXs_f64U_C7fuRAaFr0vEcZu_a_ofKAqa68pwrBOeSnUmz2bxuSJPFciqaBciAoOWkqyUvTVsIjMCe_2-0gD-VQCweQ=s0-w200-h112-dcibEA",
+      "publisher": "Público",
+      "date": "2023-01-16T08:00:00Z"
+    },
+    {
+      "id": 69,
+      "title": "Furto de electricidade é equivalente a 3,5% do OE2022",
+      "link": "https://news.google.com./articles/CBMiaWh0dHBzOi8vZXhwcmVzc29kYXNpbGhhcy5jdi9lY29ub21pYS8yMDIzLzAxLzAzL2Z1cnRvLWRlLWVsZWN0cmljaWRhZGUtZS1lcXVpdmFsZW50ZS1hLTM1LWRvLW9lMjAyMi84Mzc1N9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/-SBj_pZtr80LewrZ3u0vonahexqc0wvz5zFjPQP6ggXipPTbzFm650GCNiE1mdh0X5AfAZ5UyX8QuSLC9n_9fvBm0I9GmqFAOeVT3CYk9a1Yl2DxpSNrqFp05Nk7akA=s0-w200-h112-dcARCC5CAk4PJIJDbq0hY",
+      "publisher": "Expresso das Ilhas",
+      "date": "2023-01-03T08:00:00Z"
+    },
+    {
+      "id": 70,
+      "title": "Aluno da Universidade de Coimbra desenvolve frigoríficos para regiões sem acesso a electricidade",
+      "link": "https://news.google.com./articles/CBMie2h0dHBzOi8vdHJlbmR5LnB0LzIwMjMvMDIvYWx1bm8tZGEtdW5pdmVyc2lkYWRlLWRlLWNvaW1icmEtZGVzZW52b2x2ZS1mcmlnb3JpZmljb3MtcGFyYS1yZWdpb2VzLXNlbS1hY2Vzc28tYS1lbGVjdHJpY2lkYWRlL9IBAA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/xM4mstY4SJe-ANFW_z4y_YWbHctuOyG8slAF9v2rACm4afXcLTGbeTDWlzSWrjCRDwOPu60tDhqevFFvlXGm1SVCLQr3_egLGgWN0ymi1DYSm1EltAjwzc-9=s0-w200-h112-dcGWSK66kG",
+      "publisher": "Trendy",
+      "date": "2023-02-01T08:00:00Z"
+    },
+    {
+      "id": 71,
+      "title": "EDP Comercial sobe 3% e aplica ajuste MIBEL a partir de Janeiro",
+      "link": "https://news.google.com./articles/CBMiZGh0dHBzOi8vY29udGFzcG91cGFuY2EucHQvMjAyMi8xMS8yMy9lZHAtY29tZXJjaWFsLXNvYmUtMy1lLWFwbGljYS1hanVzdGUtbWliZWwtYS1wYXJ0aXItZGUtamFuZWlyby_SAQA?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "image": "https://lh3.googleusercontent.com/proxy/cUGYfQLx1u2RFbvlw9bSvyoXGTb73q1IQeQB_LO7EQxFJtX9PH9dhWyjwev5PfdVGj9uoiKJwMI6muIlPUB40gB5Z5mWPwP1VbHdZTwEIsT-pgFnyYBxTdbM4Rjmi8aD=s0-w200-h112-dcBWSKra0H",
+      "publisher": "Contas-poupança",
+      "date": "2022-11-23T08:00:00Z"
+    }
+  ]
+}
